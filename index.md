@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Lihui Liu
+![image](https://user-images.githubusercontent.com/53407011/157603986-f480c629-6987-48aa-93f7-55c1b003d336.png)
 
-You can use the [editor on GitHub](https://github.com/lihuiliullh/lihuiliu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Ph.D. student in the Department of Computer Science at University of Illinois at Urbana-Champaign. My advisor is Prof. Hanghang Tong. Before that, I obtained my M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017) and B.S degree from HuaZhong University of Science and Technology (2010-2014).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Publication
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+1. KomPare: A Knowledge Graph Comparative Reasoning System. KDD 2021
+Lihui Liu, Boxin Du, Fung Yi, Heng Ji, Jiejun Xu, Hanghang Tong
 
-- Bulleted
-- List
+2. Neural-Answering Logical Queries on Knowledge Graphs. KDD 2021
+Lihui Liu, Boxin Du, Heng Ji, Chengxiang Zhai, Hanghang Tong
 
-1. Numbered
-2. List
+3. A Knowledge Graph Reasoning Prototype. NeurIPS demo 2020
+Lihui Liu, Hanghang Tong
 
-**Bold** and _Italic_ and `Code` text
+4. Approximated Attributed Subgraph Matching. BigData 2019
+Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Services
+```markdown
+* Program Committee: IJCAI (2020-2021), CIKM (2020-2021), AAAI (2021)
+```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lihuiliullh/lihuiliu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Honors and Awards
+```markdown
+2019: BigData Student Travel Award
+```

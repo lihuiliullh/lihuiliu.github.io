@@ -5,20 +5,37 @@
 I am a Ph.D. student in the Department of Computer Science at University of Illinois at Urbana-Champaign. My advisor is Prof. Hanghang Tong. Before that, I obtained my M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017) and B.S degree from HuaZhong University of Science and Technology (2010-2014).
 
 
+### Education
+```markdown
+
+Ph.D University of Illinois at Urbana-Champaign. (2018-2019)
+
+Ph.D Arizona State University. (2018-2019)
+
+M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017)
+
+B.S degree from HuaZhong University of Science and Technology (2010-2014)
+
+```
+
+
 ### Publication
 ```markdown
 
-1. KomPare: A Knowledge Graph Comparative Reasoning System. KDD 2021
-Lihui Liu, Boxin Du, Fung Yi, Heng Ji, Jiejun Xu, Hanghang Tong
+1. Approximated Attributed Subgraph Matching. BigData 2019
+Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
 
-2. Neural-Answering Logical Queries on Knowledge Graphs. KDD 2021
-Lihui Liu, Boxin Du, Heng Ji, Chengxiang Zhai, Hanghang Tong
-
-3. A Knowledge Graph Reasoning Prototype. NeurIPS demo 2020
+2. A Knowledge Graph Reasoning Prototype. NeurIPS demo 2020
 Lihui Liu, Hanghang Tong
 
-4. Approximated Attributed Subgraph Matching. BigData 2019
-Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
+3. KomPare: A Knowledge Graph Comparative Reasoning System. KDD 2021
+Lihui Liu, Boxin Du, Fung Yi, Heng Ji, Jiejun Xu, Hanghang Tong
+
+4. Neural-Answering Logical Queries on Knowledge Graphs. KDD 2021
+Lihui Liu, Boxin Du, Heng Ji, Chengxiang Zhai, Hanghang Tong
+
+5. Joint Knowledge Graph Completion and Question Answering. KDD 2022
+Lihui Liu, Boxin Du, Jiejun Xu, Yinglong xia, Hanghang Tong
 
 ```
 

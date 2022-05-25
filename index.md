@@ -8,7 +8,7 @@ I am a Ph.D. student in the Department of Computer Science at University of Illi
 ### Education
 ```markdown
 
-Ph.D University of Illinois at Urbana-Champaign. (2018-2019)
+Ph.D University of Illinois at Urbana-Champaign. (2018-now)
 
 Ph.D Arizona State University. (2018-2019)
 

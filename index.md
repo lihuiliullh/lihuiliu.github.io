@@ -8,7 +8,7 @@ I am a Ph.D. student in the Department of Computer Science at University of Illi
 ### Education
 ```markdown
 
-Ph.D University of Illinois at Urbana-Champaign. (2018-now)
+Ph.D University of Illinois at Urbana-Champaign. (2019-now)
 
 Ph.D Arizona State University. (2018-2019)
 
@@ -41,7 +41,7 @@ Lihui Liu, Boxin Du, Jiejun Xu, Yinglong xia, Hanghang Tong
 
 ### Services
 ```markdown
-* Program Committee: IJCAI (2020-2021), CIKM (2020-2021), AAAI (2021)
+* Program Committee: IJCAI (2020-2022), CIKM (2020-2022), AAAI (2021)
 ```
 
 ### Honors and Awards

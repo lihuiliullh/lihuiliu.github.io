@@ -4,6 +4,7 @@
 
 I am a Ph.D. student in the Department of Computer Science at University of Illinois at Urbana-Champaign. My advisor is Prof. Hanghang Tong. Before that, I obtained my M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017) and B.S degree from HuaZhong University of Science and Technology (2010-2014).
 
+[Google Scholar](https://scholar.google.com/citations?user=GI7jyeQAAAAJ&hl=en)
 
 ### Education
 ```markdown

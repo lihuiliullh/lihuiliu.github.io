@@ -1,8 +1,10 @@
 ## Lihui Liu
-![image](https://user-images.githubusercontent.com/53407011/157603986-f480c629-6987-48aa-93f7-55c1b003d336.png)
 
+![image](https://user-images.githubusercontent.com/53407011/157603986-f480c629-6987-48aa-93f7-55c1b003d336.png) 
+<img align="right" vspace="20" style="text-align: right;" src="https://user-images.githubusercontent.com/53407011/195919439-6b5c09fb-971c-4b10-b60a-906ad8c25dd4.png" width="80" > 
 
 I am a Ph.D. student in the Department of Computer Science at University of Illinois at Urbana-Champaign. My advisor is Prof. Hanghang Tong. Before that, I obtained my M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017) and B.S degree from HuaZhong University of Science and Technology (2010-2014). I transferred from ASU to UIUC in 2019 with my advisor. 
+
 
 [Google Scholar](https://scholar.google.com/citations?user=GI7jyeQAAAAJ&hl=en)
 

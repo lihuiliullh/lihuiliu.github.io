@@ -43,7 +43,7 @@ Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
 
 ### Services
 ```markdown
-* Program Committee: IJCAI (2020-2022), CIKM (2020-2022), AAAI (2021), WSDM (2022)
+* Program Committee: IJCAI (2020-2022), CIKM (2020-2022), AAAI (2021), WSDM (2022), WWW (2023)
 * SPC: AAAI (2022)
 ```
 

@@ -28,11 +28,11 @@ B.S degree from HuaZhong University of Science and Technology (2010-2014)
 5. Joint Knowledge Graph Completion and Question Answering. KDD 2022
 Lihui Liu, Boxin Du, Jiejun Xu, Yinglong xia, Hanghang Tong
 
-4. Neural-Answering Logical Queries on Knowledge Graphs. KDD 2021
-Lihui Liu, Boxin Du, Heng Ji, Chengxiang Zhai, Hanghang Tong
-
-3. KomPare: A Knowledge Graph Comparative Reasoning System. KDD 2021
+4. KomPare: A Knowledge Graph Comparative Reasoning System. KDD 2021
 Lihui Liu, Boxin Du, Fung Yi, Heng Ji, Jiejun Xu, Hanghang Tong
+
+3. Neural-Answering Logical Queries on Knowledge Graphs. KDD 2021
+Lihui Liu, Boxin Du, Heng Ji, Chengxiang Zhai, Hanghang Tong
 
 2. A Knowledge Graph Reasoning Prototype. NeurIPS demo 2020
 Lihui Liu, Hanghang Tong

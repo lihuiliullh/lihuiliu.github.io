@@ -25,6 +25,9 @@ B.S degree from HuaZhong University of Science and Technology (2010-2014)
 ### Publication
 ```markdown
 
+6. Comparative Reasoning for Knowledge Graph Fact Checking. BigData 2022
+Lihui Liu, Houxiang Ji, Jiejun Xu, Hanghang Tong
+
 5. Joint Knowledge Graph Completion and Question Answering. KDD 2022
 Lihui Liu, Boxin Du, Jiejun Xu, Yinglong xia, Hanghang Tong
 

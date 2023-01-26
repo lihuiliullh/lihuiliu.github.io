@@ -24,6 +24,8 @@ B.S degree from HuaZhong University of Science and Technology (2010-2014)
 
 ### Publication
 ```markdown
+7. Knowledge Graph Question Answering with Ambiguous Query. www 2023
+Lihui Liu, Yuzhong Chen, Mahashweta Das, Hao Yang, Hanghang Tong	
 
 6. Comparative Reasoning for Knowledge Graph Fact Checking. BigData 2022
 Lihui Liu, Houxiang Ji, Jiejun Xu, Hanghang Tong

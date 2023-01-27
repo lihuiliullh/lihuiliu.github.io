@@ -24,7 +24,7 @@ B.S degree from HuaZhong University of Science and Technology (2010-2014)
 
 ### Publication
 ```markdown
-7. Knowledge Graph Question Answering with Ambiguous Query. www 2023
+7. Knowledge Graph Question Answering with Ambiguous Query. WWW 2023
 Lihui Liu, Yuzhong Chen, Mahashweta Das, Hao Yang, Hanghang Tong	
 
 6. Comparative Reasoning for Knowledge Graph Fact Checking. BigData 2022
@@ -50,7 +50,7 @@ Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
 
 ### Services
 ```markdown
-* Program Committee: IJCAI (2020-2022), CIKM (2020-2022), AAAI (2021), WSDM (2022), WWW (2023)
+* Program Committee: IJCAI (2020-2023), CIKM (2020-2022), AAAI (2021), WSDM (2022), WWW (2023)
 * Program Committee: KDD(2023)
 * SPC: AAAI (2022)
 ```

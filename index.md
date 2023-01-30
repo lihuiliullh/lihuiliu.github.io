@@ -24,6 +24,7 @@ B.S degree from HuaZhong University of Science and Technology (2010-2014)
 
 ### Publication
 ```markdown
+
 7. Knowledge Graph Question Answering with Ambiguous Query. WWW 2023
 Lihui Liu, Yuzhong Chen, Mahashweta Das, Hao Yang, Hanghang Tong	
 
@@ -45,7 +46,6 @@ Lihui Liu, Hanghang Tong
 1. Approximated Attributed Subgraph Matching. BigData 2019
 Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
 
-
 ```
 
 ### Services
@@ -53,6 +53,14 @@ Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
 * Program Committee: IJCAI (2020-2023), CIKM (2020-2022), AAAI (2021), WSDM (2022), WWW (2023)
 * Program Committee: KDD(2023)
 * SPC: AAAI (2022)
+```
+
+### Industrial Experience
+```markdown
+
+* Amazon: Alexa AI-Natural Understanding (Manager: Vidit Bansal).   2022/06 – 2022/08
+    Job title: Applied scientist intern
+
 ```
 
 ### Honors and Awards

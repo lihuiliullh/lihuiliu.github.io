@@ -22,7 +22,7 @@ B.S degree from HuaZhong University of Science and Technology (2010-2014)
 ```
 
 
-### Publication
+### Conferences
 ```markdown
 
 7. Knowledge Graph Question Answering with Ambiguous Query. WWW 2023
@@ -45,6 +45,14 @@ Lihui Liu, Hanghang Tong
 
 1. Approximated Attributed Subgraph Matching. BigData 2019
 Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
+
+```
+
+### Journals
+```markdown
+
+1. [Knowledge Graph Comparative Reasoning for Fact Checking: Problem Definition and Algorithms. Data Engineering 2022](http://sites.computer.org/debull/A22dec/A22DEC-CD.pdf#page=21)
+Lihui Liu, Ruining Zhao, Boxin Du, Yi Ren Fung, Heng Ji, Jiejun Xu, Hanghang Tong
 
 ```
 

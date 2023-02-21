@@ -51,8 +51,9 @@ Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
 ### Journals
 ```markdown
 
-1. Knowledge Graph Comparative Reasoning for Fact Checking: Problem Definition and Algorithms. Data Engineering 2022
-Lihui Liu, Ruining Zhao, Boxin Du, Yi Ren Fung, Heng Ji, Jiejun Xu, Hanghang Tong
+1. Knowledge Graph Comparative Reasoning for Fact Checking: Problem Definition and Algorithms. 
+   Data Engineering 2022
+   Lihui Liu, Ruining Zhao, Boxin Du, Yi Ren Fung, Heng Ji, Jiejun Xu, Hanghang Tong
 
 ```
 

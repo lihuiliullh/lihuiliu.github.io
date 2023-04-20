@@ -74,6 +74,7 @@ Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
 
 ### Honors and Awards
 ```markdown
-2019: BigData Student Travel Award
+2023: Mavis Future Faculty Fellowship
 2023: Graduate College Conference Presentation Award
+2019: BigData Student Travel Award
 ```

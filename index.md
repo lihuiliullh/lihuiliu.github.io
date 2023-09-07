@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/53407011/157603986-f480c629-6987-48aa-93f7-55c1b003d336.png) 
 <!-- <img align="right" vspace="20" style="text-align: right;" src="https://user-images.githubusercontent.com/53407011/195919439-6b5c09fb-971c-4b10-b60a-906ad8c25dd4.png" width="80" > -->
 
-I am a Ph.D. student in the Department of Computer Science at University of Illinois at Urbana-Champaign. My advisor is Prof. Hanghang Tong. Before that, I obtained my M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017) and B.S degree from HuaZhong University of Science and Technology (2010-2014). I transferred from ASU to UIUC in 2019 with my advisor. 
+I am a Ph.D. candidate in the Department of Computer Science at University of Illinois at Urbana-Champaign. My advisor is Prof. Hanghang Tong. Before that, I obtained my M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017) and B.S degree from HuaZhong University of Science and Technology (2010-2014). I transferred from ASU to UIUC in 2019 with my advisor. 
 
 
 [Google Scholar](https://scholar.google.com/citations?user=GI7jyeQAAAAJ&hl=en)
@@ -11,9 +11,9 @@ I am a Ph.D. student in the Department of Computer Science at University of Illi
 ### Education
 ```markdown
 
-Ph.D University of Illinois at Urbana-Champaign. (2019-now)
+Ph.D candidate University of Illinois at Urbana-Champaign. (2019-now)
 
-Ph.D Arizona State University. (2018-2019)
+Ph.D student Arizona State University. (2018-2019)
 
 M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017)
 
@@ -24,6 +24,12 @@ B.S degree from HuaZhong University of Science and Technology (2010-2014)
 
 ### Conferences
 ```markdown
+
+13. Conversational Question Answering with Reformulations over Knowledge Graph. 2024 demo under view
+Lihui Liu, Blaine Hill, Boxin Du, Hanghang Tong.
+
+12. Ginkgo-P: General Illustrations of Knowledge Graphs for Openness as a Platform. 2024 demo under view
+Blaine Hill, Lihui Liu, Hanghang Tong
 
 11. Knowledge Graph Question Answering with Ambiguous Query. WWW 2023
 Lihui Liu, Yuzhong Chen, Mahashweta Das, Hao Yang, Hanghang Tong	

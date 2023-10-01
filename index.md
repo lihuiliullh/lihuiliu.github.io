@@ -1,7 +1,8 @@
 ## Lihui Liu
 
-![image](https://user-images.githubusercontent.com/53407011/157603986-f480c629-6987-48aa-93f7-55c1b003d336.png) 
-<!-- <img align="right" vspace="20" style="text-align: right;" src="https://user-images.githubusercontent.com/53407011/195919439-6b5c09fb-971c-4b10-b60a-906ad8c25dd4.png" width="80" > -->
+<!-- ![image](https://user-images.githubusercontent.com/53407011/157603986-f480c629-6987-48aa-93f7-55c1b003d336.png) -->
+<img  src="https://github.com/lihuiliullh/lihuiliullh.github.io/assets/53407011/3955534f-313a-4dd3-acca-ddc4d97ea4c1" width="400" > 
+
 
 I am a Ph.D. candidate in the Department of Computer Science at University of Illinois at Urbana-Champaign. My advisor is Prof. Hanghang Tong. Before that, I obtained my M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017) and B.S degree from HuaZhong University of Science and Technology (2010-2014). I transferred from ASU to UIUC in 2019 with my advisor. 
 
@@ -25,17 +26,17 @@ B.S degree from HuaZhong University of Science and Technology (2010-2014)
 ### Conferences
 ```markdown
 
-15. Reconciling Competing Sampling Strategies of Network Embedding. 2024 under view
-Yuchen Yan, Baoyu Jing, Lihui Liu, Ruijie Wang, Jinning Li, Tarek Abdelzaher, Hanghang Tong
-
-14. PaCEr: Positional Embedding Meets Structural Embedding of Graph Representation Learning. 2024 under view
+15. PaCEr: Positional Embedding Meets Structural Embedding of Graph Representation Learning. 2024 under view
 Yuchen Yan, Yongyi Hu, Qinghai Zhou, Lihui Liu, Hanghang Tong
 
-13. Conversational Question Answering with Reformulations over Knowledge Graph. 2024 under view
+14. Conversational Question Answering with Reformulations over Knowledge Graph. 2024 under view
 Lihui Liu, Blaine Hill, Boxin Du, Hanghang Tong
 
-12. Ginkgo-P: General Illustrations of Knowledge Graphs for Openness as a Platform. 2024 under view
+13. Ginkgo-P: General Illustrations of Knowledge Graphs for Openness as a Platform. 2024 under view
 Blaine Hill, Lihui Liu, Hanghang Tong
+
+12. Reconciling Competing Sampling Strategies of Network Embedding. NeurIPS 2023
+Yuchen Yan, Baoyu Jing, Lihui Liu, Ruijie Wang, Jinning Li, Tarek Abdelzaher, Hanghang Tong
 
 11. Knowledge Graph Question Answering with Ambiguous Query. WWW 2023
 Lihui Liu, Yuzhong Chen, Mahashweta Das, Hao Yang, Hanghang Tong	

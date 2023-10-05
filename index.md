@@ -85,7 +85,7 @@ Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
 ### Conference Tutorials
 ```markdown
 
-1. Knowledge Graph Reasoning and Its Applications. KDD 2023
+1. Knowledge Graph Reasoning and Its Applications. KDD 2023. [website](https://sites.google.com/view/kg-reasoning/home)
    Lihui Liu, Hanghang Tong
 
 ```

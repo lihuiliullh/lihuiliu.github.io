@@ -22,18 +22,17 @@ B.S degree from HuaZhong University of Science and Technology (2010-2014)
 
 ```
 
-
-### Conferences
-```markdown
-
-15. PaCEr: Positional Embedding Meets Structural Embedding of Graph Representation Learning. 2024 under view
+<!-- 15. PaCEr: Positional Embedding Meets Structural Embedding of Graph Representation Learning. 2024 under view
 Yuchen Yan, Yongyi Hu, Qinghai Zhou, Lihui Liu, Hanghang Tong
 
 14. Conversational Question Answering with Reformulations over Knowledge Graph. 2024 under view
 Lihui Liu, Blaine Hill, Boxin Du, Hanghang Tong
 
 13. Ginkgo-P: General Illustrations of Knowledge Graphs for Openness as a Platform. 2024 under view
-Blaine Hill, Lihui Liu, Hanghang Tong
+Blaine Hill, Lihui Liu, Hanghang Tong -->
+
+### Conferences
+```markdown
 
 12. Reconciling Competing Sampling Strategies of Network Embedding. NeurIPS 2023
 Yuchen Yan, Baoyu Jing, Lihui Liu, Ruijie Wang, Jinning Li, Tarek Abdelzaher, Hanghang Tong

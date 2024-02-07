@@ -33,6 +33,14 @@ Blaine Hill, Lihui Liu, Hanghang Tong -->
 
 ### Conferences
 ```markdown
+15. Conversational Question Answering with Reformulations over Knowledge Graph. 2024 arxiv
+Lihui Liu, Blaine Hill, Boxin Du, Hanghang Tong
+
+14. Ginkgo-P: General Illustrations of Knowledge Graphs for Openness as a Platform. 2024 WWW
+Blaine Hill, Lihui Liu, Hanghang Tong
+
+13. PaCEr: Positional Embedding Meets Structural Embedding of Graph Representation Learning. 2024 WWW
+Yuchen Yan, Yongyi Hu, Qinghai Zhou, Lihui Liu, Hanghang Tong
 
 12. Reconciling Competing Sampling Strategies of Network Embedding. NeurIPS 2023
 Yuchen Yan, Baoyu Jing, Lihui Liu, Ruijie Wang, Jinning Li, Tarek Abdelzaher, Hanghang Tong
@@ -86,6 +94,9 @@ Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
 
 1. Knowledge Graph Reasoning and Its Applications. KDD 2023. [website](https://sites.google.com/view/kg-reasoning/home)
    Lihui Liu, Hanghang Tong
+
+2. New Frontiers of Knowledge Graph Reasoning: Recent Advances and Future Trends. WWW 2024
+   Lihui Liu, Zihao Wang, Jiaxin Bai, Yangqiu Song, Hanghang Tong
 
 ```
 

@@ -33,11 +33,15 @@ Blaine Hill, Lihui Liu, Hanghang Tong -->
 
 ### Conferences
 ```markdown
-16. Logic Query of Thoughts: Guiding Large Language Models to Answer Complex Logic Queries with Knowledge Graphs. 2024 arxiv
+
+17. Logic Query of Thoughts: Guiding Large Language Models to Answer Complex Logic Queries with Knowledge Graphs. 2024 arxiv
 Lihui Liu, Zihao Wang, Ruizhong Qiu, Yikun Ban, Eunice Chan, Jingrui He, Hanghang Tong
 
-15. Conversational Question Answering with Reformulations over Knowledge Graph. 2024 arxiv [paper](https://arxiv.org/abs/2312.17269)
+16. Conversational Question Answering with Reformulations over Knowledge Graph. 2024 arxiv [paper](https://arxiv.org/abs/2312.17269)
 Lihui Liu, Blaine Hill, Boxin Du, Hanghang Tong
+
+15. Can contrastive learning refine embedding. 2024 ESWC
+Lihui Liu, Jimha Kim, Vidit Bansal.
 
 14. Ginkgo-P: General Illustrations of Knowledge Graphs for Openness as a Platform. 2024 WSDM 
 Blaine Hill, Lihui Liu, Hanghang Tong

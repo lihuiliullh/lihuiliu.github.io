@@ -136,6 +136,7 @@ CS512: Data Mining Principles, Prof. Hanghang Tong, Fall 2022.
 ### Honors and Awards
 ```markdown
 2023: Mavis Future Faculty Fellowship
-2023: Graduate College Conference Presentation Award
+2023: Conference Presentation Award
+2022: Conference Presentation Award
 2019: BigData Student Travel Award
 ```

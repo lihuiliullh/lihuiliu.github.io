@@ -35,6 +35,9 @@ Blaine Hill, Lihui Liu, Hanghang Tong -->
 ### Conferences
 ```markdown
 
+18. Prompt tuning with attribute guidance for entity matching. 2024 under review
+Lihui Liu, Jinha Kim, Vidit Bansal
+
 17. Logic Query of Thoughts: Guiding Large Language Models to Answer Complex Logic Queries with Knowledge Graphs. 2024 arxiv
 Lihui Liu, Zihao Wang, Ruizhong Qiu, Yikun Ban, Eunice Chan, Jingrui He, Hanghang Tong
 

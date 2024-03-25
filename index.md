@@ -9,6 +9,8 @@ I am a Ph.D. candidate in the Department of Computer Science at University of Il
 
 [Google Scholar](https://scholar.google.com/citations?user=GI7jyeQAAAAJ&hl=en)
 
+I'm constantly seeking students interested in interning with me on topics such as LLM + KG, LM + KG for QA, KG for recommendation, and more. Please don't hesitate to contact me (lihuil2@illinois.edu) if you're interested.
+
 <!-- 
 ### Education
 ```markdown

@@ -144,4 +144,7 @@ CS512: Data Mining Principles, Prof. Hanghang Tong, Fall 2022.
 2023: Conference Presentation Award
 2022: Conference Presentation Award
 2019: BigData Student Travel Award
+2017: Best paper award, CSCDW
+2014: Outstanding Graduates, HuaZhong University of Science and Technology
+2012: Self-Improvement Scholarship, HuaZhong University of Science and Technology
 ```

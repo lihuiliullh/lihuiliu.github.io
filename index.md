@@ -113,6 +113,16 @@ Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
 
 ```
 
+### Invited Talk
+```markdown
+
+1. Knowledge Graph Reasoning for Biomedicine Applications, BDSC(The Biomedical
+   Data Science Convention ForIndustry Discipline Development), Fall 2023.
+
+2. Knowledge Graph Reasoning and Its Applications. Virginia Tech, Spring 2024.
+
+```
+
 ### Teaching Experience
 ```markdown
 

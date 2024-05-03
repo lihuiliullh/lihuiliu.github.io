@@ -161,3 +161,8 @@ CS512: Data Mining Principles, Prof. Hanghang Tong, Fall 2022.
 2013: People's Scholarship, HuaZhong University of Science and Technology
 2012: Excellent students Scholarship, Huazhong University of Science and Technology
 ```
+
+
+"Success is not final, failure is not fatal: it is the courage to continue that counts." --- Winston Churchill
+
+"We are what we repeatedly do. Excellence, then, is not an act, but a habit." --- Aristotle

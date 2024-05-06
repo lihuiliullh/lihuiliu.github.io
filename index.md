@@ -167,8 +167,8 @@ CS512: Data Mining Principles, Prof. Hanghang Tong, Fall 2022.
 
 "We are what we repeatedly do. Excellence, then, is not an act, but a habit." --- Aristotle
 
-"The greatest glory in living lies not in never falling, but in rising every time we fall." --- Nelson Mandela
-
+<!-- "The greatest glory in living lies not in never falling, but in rising every time we fall." --- Nelson Mandela
+-->
 
 
 

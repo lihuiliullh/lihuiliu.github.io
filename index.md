@@ -1,7 +1,7 @@
 ## Lihui Liu
 
-<!-- ![image](https://user-images.githubusercontent.com/53407011/157603986-f480c629-6987-48aa-93f7-55c1b003d336.png) -->
-<img  src="https://github.com/lihuiliullh/lihuiliullh.github.io/assets/53407011/3955534f-313a-4dd3-acca-ddc4d97ea4c1" width="400" >
+![image](https://user-images.githubusercontent.com/53407011/157603986-f480c629-6987-48aa-93f7-55c1b003d336.png) 
+<!--  <img  src="https://github.com/lihuiliullh/lihuiliullh.github.io/assets/53407011/3955534f-313a-4dd3-acca-ddc4d97ea4c1" width="400" > -->
 
 
 I am a Ph.D. candidate in the Department of Computer Science at University of Illinois at Urbana-Champaign. Before that, I obtained my M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017) and B.S degree from HuaZhong University of Science and Technology (2010-2014). 

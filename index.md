@@ -43,7 +43,7 @@ Lihui Liu, Jinha Kim, Vidit Bansal
 17. Logic Query of Thoughts: Guiding Large Language Models to Answer Complex Logic Queries with Knowledge Graphs. 2024 arxiv
 Lihui Liu, Zihao Wang, Ruizhong Qiu, Yikun Ban, Eunice Chan, Jingrui He, Hanghang Tong
 
-16. Conversational Question Answering with Reformulations over Knowledge Graph. 2024 arxiv [paper](https://arxiv.org/abs/2312.17269)
+16. Conversational Question Answering with Reformulations over Knowledge Graph. ACL 2024 Findings [paper](https://arxiv.org/abs/2312.17269)
 Lihui Liu, Blaine Hill, Boxin Du, Hanghang Tong
 
 15. Can contrastive learning refine embedding. 2024 ESWC

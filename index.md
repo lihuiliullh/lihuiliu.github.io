@@ -134,7 +134,7 @@ CS512: Data Mining Principles, Prof. Hanghang Tong, Fall 2022.
 ### Services
 ```markdown
 * Program Committee: IJCAI (2020-2023), CIKM (2020-2023), AAAI (2021), WSDM (2022-2023), WWW (2023-2024)
-* Program Committee: KDD(2023)
+* Program Committee: KDD(2023), KDD(2024), NeurIPS(2024), CIKM(2024)
 * SPC: AAAI (2022)
 ```
 

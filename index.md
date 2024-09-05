@@ -2,8 +2,11 @@
 
 <!-- ![image](https://user-images.githubusercontent.com/53407011/157603986-f480c629-6987-48aa-93f7-55c1b003d336.png)  -->
 <!--  <img  src="https://github.com/lihuiliullh/lihuiliullh.github.io/assets/53407011/3955534f-313a-4dd3-acca-ddc4d97ea4c1" width="400" > -->
-
+<head>
+<div id='wx_pic' style='margin:0 auto;display:none;'>
 <img src="https://github.com/user-attachments/assets/7ac7aad5-73d2-48c2-926e-0c82bcfd08ab" width="300" height="300" />
+</div>
+</head>
 
 I am an assistant professor at Wayne State University. My research interests lie in **natural language processing**, **neural symbolic artificial intelligence**, **large language models**, **augmented retrieval**, **knowledge graph reasoning**, and **graph neural networks**.
 

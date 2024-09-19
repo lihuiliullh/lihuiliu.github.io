@@ -3,11 +3,13 @@
 <img src="https://github.com/user-attachments/assets/7ac7aad5-73d2-48c2-926e-0c82bcfd08ab" width="300" height="300" />
 
 
-I am an assistant professor at Wayne State University. My research interests lie in **natural language processing**, **neural symbolic artificial intelligence**, **large language models**, **augmented retrieval**, **knowledge graph reasoning**, and **graph neural networks**.
+I am an assistant professor at Wayne State University. My research interests lie in **neural symbolic AI**, **large language models**, **augmented retrieval**, **knowledge graph reasoning**, and **graph neural networks**.
 
 I got my Ph.D. in the Department of Computer Science at University of Illinois at Urbana-Champaign in 2024. Before that, I obtained my M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017) and B.S degree from HuaZhong University of Science and Technology (2010-2014). 
 
-**I have several Ph.D. positions available and am always looking for self-motivated Ph.D. students to join my team. If you are interested in my research, please feel free to reach out to me via email. (hw6926 at wayne dot edu)**
+**I have several Ph.D. positions available and am always looking for self-motivated Ph.D. students to join my team. If you are interested in my research, please feel free to reach out to me via email with the subject line 'Ph.D. Application -- [Your Name].'. (hw6926 at wayne dot edu)**
+
+**I may be unable to respond to every email. If I miss your email, please resend it to me.**
    
 [Google Scholar](https://scholar.google.com/citations?user=GI7jyeQAAAAJ&hl=en)
 
